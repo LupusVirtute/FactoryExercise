@@ -9,6 +9,15 @@ var productList = new Faker<Product>()
 
 var payments = new List<Payment>();
 
+
+Console.WriteLine("Printing products");
+foreach(var product in productList)
+{
+    Console.WriteLine($"Name: {product.Name}");
+    Console.WriteLine($"Description: {product.Description}");
+    Console.WriteLine($"Price: {product.Price}");
+}
+
 foreach(var paymentGateWay in PaymentGateways.List)
 {
     var payment = Payment.PaymentProcessorFactory.CreatePaymentWithBank(productList, paymentGateWay);
