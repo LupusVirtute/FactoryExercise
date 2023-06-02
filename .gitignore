@@ -1,3 +1,5 @@
 .vs
-FactoryExercise\bin
-FactoryExercise\obj
+FactoryExercise/bin
+FactoryExercise/obj
+FactoryExercise/bin/*
+FactoryExercise/obj/*
