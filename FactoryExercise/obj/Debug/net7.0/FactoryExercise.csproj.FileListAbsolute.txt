@@ -13,3 +13,6 @@ C:\Users\GreaterGermanReich\source\repos\FactoryExercise\FactoryExercise\obj\Deb
 C:\Users\GreaterGermanReich\source\repos\FactoryExercise\FactoryExercise\obj\Debug\net7.0\FactoryExercise.pdb
 C:\Users\GreaterGermanReich\source\repos\FactoryExercise\FactoryExercise\obj\Debug\net7.0\FactoryExercise.genruntimeconfig.cache
 C:\Users\GreaterGermanReich\source\repos\FactoryExercise\FactoryExercise\obj\Debug\net7.0\ref\FactoryExercise.dll
+C:\Users\GreaterGermanReich\source\repos\FactoryExercise\FactoryExercise\bin\Debug\net7.0\Ardalis.SmartEnum.dll
+C:\Users\GreaterGermanReich\source\repos\FactoryExercise\FactoryExercise\bin\Debug\net7.0\Bogus.dll
+C:\Users\GreaterGermanReich\source\repos\FactoryExercise\FactoryExercise\obj\Debug\net7.0\FactoryExercise.csproj.CopyComplete

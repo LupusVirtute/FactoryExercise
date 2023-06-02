@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nbBdDVcl6rUENicp82zeZLVFaurTb7hDdQQktWBoNKYpDVzr/76F62uHuoZoYFH70b66eu39+CkClapPCbfDRw==",
+  "dgSpecHash": "HC3uRcuaUqOpVOa1Q6PGqQymPqU85nsfpiDs/sN1s85dhmj4ciVvizzOWZrgAqjb1mvXkL/Lz3WXsaaHBRWEKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\GreaterGermanReich\\source\\repos\\FactoryExercise\\FactoryExercise\\FactoryExercise.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\GreaterGermanReich\\.nuget\\packages\\ardalis.smartenum\\7.0.0\\ardalis.smartenum.7.0.0.nupkg.sha512"
+    "C:\\Users\\GreaterGermanReich\\.nuget\\packages\\ardalis.smartenum\\7.0.0\\ardalis.smartenum.7.0.0.nupkg.sha512",
+    "C:\\Users\\GreaterGermanReich\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
   ],
   "logs": []
 }

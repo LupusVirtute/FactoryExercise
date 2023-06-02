@@ -47,6 +47,10 @@
             "Ardalis.SmartEnum": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
             }
           },
           "imports": [

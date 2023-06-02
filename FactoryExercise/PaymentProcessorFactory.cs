@@ -4,9 +4,9 @@ public partial class Payment
 {
     public static class PaymentProcessorFactory
     {
-        public static Payment CreatePaymentWithBank(List<Product> productsToBeBought, PaymentProviderFinalPriceCalculator bank)
+        public static Payment CreatePaymentWithBank(List<Product> productsToBeBought, PaymentGateways paymentGateway)
         {
-            return new Payment(productsToBeBought, bank.GetFinalPrice(productsToBeBought));
+            return new Payment(productsToBeBought, paymentGateway.GetFinalPrice(productsToBeBought));
         }
 
     }

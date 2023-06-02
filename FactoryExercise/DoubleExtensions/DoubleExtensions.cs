@@ -1,4 +1,4 @@
-﻿namespace FactoryExercise
+﻿namespace FactoryExercise.DoubleExtensions
 {
     public static class DoubleExtensions
     {

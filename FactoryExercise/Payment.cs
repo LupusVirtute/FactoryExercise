@@ -3,9 +3,9 @@
     public partial class Payment
     {
         private List<Product> ProductsBought { get; set; }
-        public decimal FinalPrice { get; private set; }
+        public double FinalPrice { get; private set; }
 
-        protected Payment(List<Product> productsBought, decimal FinalPrice)
+        protected Payment(List<Product> productsBought, double FinalPrice)
         {
             ProductsBought = productsBought;
             this.FinalPrice = FinalPrice;
