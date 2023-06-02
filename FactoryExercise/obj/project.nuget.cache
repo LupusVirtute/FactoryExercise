@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nbBdDVcl6rUENicp82zeZLVFaurTb7hDdQQktWBoNKYpDVzr/76F62uHuoZoYFH70b66eu39+CkClapPCbfDRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GreaterGermanReich\\source\\repos\\FactoryExercise\\FactoryExercise\\FactoryExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GreaterGermanReich\\.nuget\\packages\\ardalis.smartenum\\7.0.0\\ardalis.smartenum.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
